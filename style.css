@@ -97,6 +97,10 @@ a:hover {
 
 .bt_rede_social{
     text-decoration: none;
+    cursor: pointer;
+    color: black;
+    border-color: black;
+    background-color: #e6e5e5;
 }
 
 .bt_rede_social:visited {
